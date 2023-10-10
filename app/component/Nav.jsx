@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import {motion} from 'framer-motion'
+
 export default function Nav() {
     return (
         <nav className="navbar sticky-top bg-dark border-bottom border-body" data-bs-theme="dark">
