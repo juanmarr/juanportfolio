@@ -5,6 +5,7 @@ import Header from './component/Header'
 import Profile from '@/app/component/Profile'
 import Skills from './component/Skills'
 import Projects from './component/Projects'
+import Contact from './component/Contact'
 import 'bootstrap/dist/css/bootstrap.css';
 
 
@@ -18,6 +19,7 @@ export default function Home() {
     <Profile/>
     <Skills/>
     <Projects/>
+    <Contact/>
     </>
   )
 }

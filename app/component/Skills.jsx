@@ -1,7 +1,7 @@
 export default function Skills() {
     return (
         <>
-            <h2>Skills</h2>
+            <h2 className="shadow bg-dark p-3 mb-5 bg-body-tertiary rounded" data-bs-theme="grey">Skills</h2>
             <ul>
                 <li>Programming languages</li>
                 <ul>
