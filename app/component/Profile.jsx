@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import profile from '@/public/juan-headshot.jpg'
-import unf from '@/public/unf.jpg'
-import colombia from '@/public/colombia.webp'
-import hobbies from '@/public/hobbies.png'
+import profile from 'juanportfolio/public/juan-headshot.jpg'
+import unf from 'juanportfolio/public/unf.jpg'
+import colombia from 'juanportfolio/public/colombia.webp'
+import hobbies from 'juanportfolio/public/hobbies.png'
 
 const imageStyle = {
     height: '200px',
