@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import profile from '@/public/juan-headshot.jpg'
+import profile from '@/public/juanheadshot.jpg'
 import unf from '@/public/unf.jpg'
 import colombia from '@/public/colombia.webp'
 import hobbies from '@/public/hobbies.png'
