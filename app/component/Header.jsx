@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import banner from 'juanportfolio/public/cop3813_header.jpg'
+import banner from '@/public/cop3813_header.jpg'
 
 export default function Header() {
     return (
