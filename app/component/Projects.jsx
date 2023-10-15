@@ -31,7 +31,7 @@ export default function Projects() {
                         <h3>UI/UX design</h3>
                         <p>Recently I have been trying to improve my UI/UX design skills by learning Figma. I choose Figma because it 
                             is becoming an industry standard. This is one of my first demos of a webpage. I am currently working 
-                            on a full application design for an interfae design class that I will post at the end of the semester.
+                            on a job application interface for an interface design class that I will post at the end of the semester.
                         </p>
                         <button className="btn btn-dark"><a href="https://www.figma.com/file/u2yfmsqXYOndhLu3oUso04/web-design-practice?type=design&node-id=0%3A1&mode=design&t=4iXPb5ZqUTPcYHFL-1" target="_blank">View Project</a></button>
 
