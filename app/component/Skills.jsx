@@ -17,6 +17,7 @@ export default function Skills() {
                         <ul>
                             <li>Next.js</li>
                             <li>React</li>
+                            <li>Figma designs</li>
                         </ul>
                         <li>relation and non-relation databases</li>
                         <ul>
