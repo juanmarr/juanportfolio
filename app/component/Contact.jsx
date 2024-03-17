@@ -1,8 +1,8 @@
 export default function Contact() {
     return (
         <>
-            <div class="card" id="contact">
-                <div class="card-body">
+            <div className="card border-black mb-2" id="contact">
+                <div className="card-body">
                     <section id="contact">
                         <h2 className="shadow bg-dark p-3 mb-5 bg-body-tertiary rounded" data-bs-theme="grey">Contact me</h2>
                         <p>Phone: 904-662-1504</p>

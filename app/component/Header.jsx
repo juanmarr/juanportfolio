@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import banner from '@/public/cop3813_header.jpg'
+import profile from '@/public/juanheadshot.jpg'
 
 export default function Header() {
     return (
@@ -13,6 +14,7 @@ export default function Header() {
                 />
             </div>
             <h1 className="position-absolute top-50 start-50 translate-middle" style={{ zIndex: 2, position:'relative', color:'white' }}>Juan Marrugo's Web portfolio</h1>
+                
         </header >
     )
 }
