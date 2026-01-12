@@ -12,7 +12,10 @@ import AiHackathon from '@/public/AiHackathon.jpg'
 export default function Profile() {
     return (
         <>
-            <Image src={profile} className="img-fluid rounded-circle mx-auto d-block my-5" alt="Juan" style={{ maxHeight: '20vh', maxWidth: '15vh' }} />
+        <text>Do people really visit web portfolios?</text>
+        <div className='counter-container'>
+            <h1>Visitor count: <span id='visitorcount'>0</span></h1>
+        </div>
 
             <div className="clearfix">
                 <a href='https://www.unf.edu/ccec/' style={{ textDecoration: 'none', color: 'inherit' }} target='_blank' >

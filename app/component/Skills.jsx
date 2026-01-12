@@ -3,8 +3,8 @@ export default function Skills() {
         <>
 
 
-            < div class="card border-black mb-3 mx-auto" id="skills">
-                <div class="card-body">
+            < div className="card border-black mb-3 mx-auto" id="skills">
+                <div className="card-body">
                     <h2 className="shadow bg-dark p-3 mb-5 bg-body-tertiary rounded" data-bs-theme="grey">Skills</h2>
                     <ul>
                         <li>Programming languages</li>

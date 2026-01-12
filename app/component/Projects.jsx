@@ -1,8 +1,8 @@
 export default function Projects() {
     return (
         <>
-            <div class="card border-black mb-3" id='projects'>
-                <div class="card-body">
+            <div className="card border-black mb-3" id='projects'>
+                <div className="card-body">
                     <h2 className="shadow bg-dark p-3 mb-5 bg-body-tertiary rounded" data-bs-theme="grey">Projects</h2>
                     <div className="p-3">
                         <h3>Data Analytics Senior Project</h3>
